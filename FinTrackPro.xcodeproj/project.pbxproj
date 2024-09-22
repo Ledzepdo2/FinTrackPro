@@ -96,6 +96,12 @@
 		6D6C37C82C9FEB1800490B37 /* FinTrackPro */ = {
 			isa = PBXGroup;
 			children = (
+				6D6C37F62C9FF31100490B37 /* Features */,
+				6D6C37FA2C9FF36D00490B37 /* Utilities */,
+				6D6C37F92C9FF35F00490B37 /* UIComponents */,
+				6D6C37F82C9FF35000490B37 /* Services */,
+				6D6C37F72C9FF33900490B37 /* Networking */,
+				6D6C37F52C9FF2F500490B37 /* Core */,
 				6D6C37C92C9FEB1800490B37 /* FinTrackProApp.swift */,
 				6D6C37CB2C9FEB1800490B37 /* ContentView.swift */,
 				6D6C37CD2C9FEB1800490B37 /* Item.swift */,
@@ -128,6 +134,104 @@
 				6D6C37E82C9FEB1A00490B37 /* FinTrackProUITestsLaunchTests.swift */,
 			);
 			path = FinTrackProUITests;
+			sourceTree = "<group>";
+		};
+		6D6C37F52C9FF2F500490B37 /* Core */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Core;
+			sourceTree = "<group>";
+		};
+		6D6C37F62C9FF31100490B37 /* Features */ = {
+			isa = PBXGroup;
+			children = (
+				6D6C37FE2C9FF72300490B37 /* Common */,
+				6D6C37FD2C9FF70A00490B37 /* Trading */,
+				6D6C37FC2C9FF6E900490B37 /* Authentication */,
+				6D6C37FB2C9FF6DC00490B37 /* Dashboard */,
+			);
+			path = Features;
+			sourceTree = "<group>";
+		};
+		6D6C37F72C9FF33900490B37 /* Networking */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Networking;
+			sourceTree = "<group>";
+		};
+		6D6C37F82C9FF35000490B37 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		6D6C37F92C9FF35F00490B37 /* UIComponents */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = UIComponents;
+			sourceTree = "<group>";
+		};
+		6D6C37FA2C9FF36D00490B37 /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Utilities;
+			sourceTree = "<group>";
+		};
+		6D6C37FB2C9FF6DC00490B37 /* Dashboard */ = {
+			isa = PBXGroup;
+			children = (
+				6D6C37FF2C9FF74200490B37 /* VIPER */,
+			);
+			path = Dashboard;
+			sourceTree = "<group>";
+		};
+		6D6C37FC2C9FF6E900490B37 /* Authentication */ = {
+			isa = PBXGroup;
+			children = (
+				6D6C38002C9FF75300490B37 /* MVVM */,
+			);
+			path = Authentication;
+			sourceTree = "<group>";
+		};
+		6D6C37FD2C9FF70A00490B37 /* Trading */ = {
+			isa = PBXGroup;
+			children = (
+				6D6C38012C9FF79000490B37 /* TCA */,
+			);
+			path = Trading;
+			sourceTree = "<group>";
+		};
+		6D6C37FE2C9FF72300490B37 /* Common */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Common;
+			sourceTree = "<group>";
+		};
+		6D6C37FF2C9FF74200490B37 /* VIPER */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = VIPER;
+			sourceTree = "<group>";
+		};
+		6D6C38002C9FF75300490B37 /* MVVM */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = MVVM;
+			sourceTree = "<group>";
+		};
+		6D6C38012C9FF79000490B37 /* TCA */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = TCA;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
