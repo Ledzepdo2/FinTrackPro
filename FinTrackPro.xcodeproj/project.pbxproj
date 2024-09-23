@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		6D5E6E2C2CA11FF40016877B /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = 6D5E6E2B2CA11FF40016877B /* Alamofire */; };
+		6D5E6E2F2CA120B50016877B /* SwiftyJSON in Frameworks */ = {isa = PBXBuildFile; productRef = 6D5E6E2E2CA120B50016877B /* SwiftyJSON */; };
 		6D6C37CA2C9FEB1800490B37 /* FinTrackProApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D6C37C92C9FEB1800490B37 /* FinTrackProApp.swift */; };
 		6D6C37CC2C9FEB1800490B37 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D6C37CB2C9FEB1800490B37 /* ContentView.swift */; };
 		6D6C37CE2C9FEB1800490B37 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D6C37CD2C9FEB1800490B37 /* Item.swift */; };
@@ -54,6 +55,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6D5E6E2F2CA120B50016877B /* SwiftyJSON in Frameworks */,
 				6D5E6E2C2CA11FF40016877B /* Alamofire in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -254,6 +256,7 @@
 			name = FinTrackPro;
 			packageProductDependencies = (
 				6D5E6E2B2CA11FF40016877B /* Alamofire */,
+				6D5E6E2E2CA120B50016877B /* SwiftyJSON */,
 			);
 			productName = FinTrackPro;
 			productReference = 6D6C37C62C9FEB1800490B37 /* FinTrackPro.app */;
@@ -329,6 +332,7 @@
 			mainGroup = 6D6C37BD2C9FEB1800490B37;
 			packageReferences = (
 				6D5E6E2A2CA11FF40016877B /* XCRemoteSwiftPackageReference "Alamofire" */,
+				6D5E6E2D2CA120B40016877B /* XCRemoteSwiftPackageReference "SwiftyJSON" */,
 			);
 			productRefGroup = 6D6C37C72C9FEB1800490B37 /* Products */;
 			projectDirPath = "";
@@ -710,6 +714,14 @@
 				version = 5.6.4;
 			};
 		};
+		6D5E6E2D2CA120B40016877B /* XCRemoteSwiftPackageReference "SwiftyJSON" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/SwiftyJSON/SwiftyJSON.git";
+			requirement = {
+				kind = exactVersion;
+				version = 5.0.1;
+			};
+		};
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
@@ -717,6 +729,11 @@
 			isa = XCSwiftPackageProductDependency;
 			package = 6D5E6E2A2CA11FF40016877B /* XCRemoteSwiftPackageReference "Alamofire" */;
 			productName = Alamofire;
+		};
+		6D5E6E2E2CA120B50016877B /* SwiftyJSON */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 6D5E6E2D2CA120B40016877B /* XCRemoteSwiftPackageReference "SwiftyJSON" */;
+			productName = SwiftyJSON;
 		};
 /* End XCSwiftPackageProductDependency section */
 	};
