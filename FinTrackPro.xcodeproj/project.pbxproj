@@ -11,6 +11,8 @@
 		6D5E6E2F2CA120B50016877B /* SwiftyJSON in Frameworks */ = {isa = PBXBuildFile; productRef = 6D5E6E2E2CA120B50016877B /* SwiftyJSON */; };
 		6D5E6E322CA121D60016877B /* Kingfisher in Frameworks */ = {isa = PBXBuildFile; productRef = 6D5E6E312CA121D60016877B /* Kingfisher */; };
 		6D5E6E352CA12BC10016877B /* Lottie in Frameworks */ = {isa = PBXBuildFile; productRef = 6D5E6E342CA12BC10016877B /* Lottie */; };
+		6D5E6E382CA12DAE0016877B /* Realm in Frameworks */ = {isa = PBXBuildFile; productRef = 6D5E6E372CA12DAE0016877B /* Realm */; };
+		6D5E6E3A2CA12DAE0016877B /* RealmSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 6D5E6E392CA12DAE0016877B /* RealmSwift */; };
 		6D6C37CA2C9FEB1800490B37 /* FinTrackProApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D6C37C92C9FEB1800490B37 /* FinTrackProApp.swift */; };
 		6D6C37CC2C9FEB1800490B37 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D6C37CB2C9FEB1800490B37 /* ContentView.swift */; };
 		6D6C37CE2C9FEB1800490B37 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D6C37CD2C9FEB1800490B37 /* Item.swift */; };
@@ -57,10 +59,12 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6D5E6E3A2CA12DAE0016877B /* RealmSwift in Frameworks */,
 				6D5E6E322CA121D60016877B /* Kingfisher in Frameworks */,
 				6D5E6E2F2CA120B50016877B /* SwiftyJSON in Frameworks */,
 				6D5E6E2C2CA11FF40016877B /* Alamofire in Frameworks */,
 				6D5E6E352CA12BC10016877B /* Lottie in Frameworks */,
+				6D5E6E382CA12DAE0016877B /* Realm in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -263,6 +267,8 @@
 				6D5E6E2E2CA120B50016877B /* SwiftyJSON */,
 				6D5E6E312CA121D60016877B /* Kingfisher */,
 				6D5E6E342CA12BC10016877B /* Lottie */,
+				6D5E6E372CA12DAE0016877B /* Realm */,
+				6D5E6E392CA12DAE0016877B /* RealmSwift */,
 			);
 			productName = FinTrackPro;
 			productReference = 6D6C37C62C9FEB1800490B37 /* FinTrackPro.app */;
@@ -341,6 +347,7 @@
 				6D5E6E2D2CA120B40016877B /* XCRemoteSwiftPackageReference "SwiftyJSON" */,
 				6D5E6E302CA121D60016877B /* XCRemoteSwiftPackageReference "Kingfisher" */,
 				6D5E6E332CA12BC10016877B /* XCRemoteSwiftPackageReference "lottie-ios" */,
+				6D5E6E362CA12DAE0016877B /* XCRemoteSwiftPackageReference "realm-swift" */,
 			);
 			productRefGroup = 6D6C37C72C9FEB1800490B37 /* Products */;
 			projectDirPath = "";
@@ -746,6 +753,14 @@
 				version = 4.1.0;
 			};
 		};
+		6D5E6E362CA12DAE0016877B /* XCRemoteSwiftPackageReference "realm-swift" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/realm/realm-swift.git";
+			requirement = {
+				kind = exactVersion;
+				version = 10.40.2;
+			};
+		};
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
@@ -768,6 +783,16 @@
 			isa = XCSwiftPackageProductDependency;
 			package = 6D5E6E332CA12BC10016877B /* XCRemoteSwiftPackageReference "lottie-ios" */;
 			productName = Lottie;
+		};
+		6D5E6E372CA12DAE0016877B /* Realm */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 6D5E6E362CA12DAE0016877B /* XCRemoteSwiftPackageReference "realm-swift" */;
+			productName = Realm;
+		};
+		6D5E6E392CA12DAE0016877B /* RealmSwift */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 6D5E6E362CA12DAE0016877B /* XCRemoteSwiftPackageReference "realm-swift" */;
+			productName = RealmSwift;
 		};
 /* End XCSwiftPackageProductDependency section */
 	};
