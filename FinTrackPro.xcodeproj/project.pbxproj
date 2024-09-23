@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		6D5E6E2C2CA11FF40016877B /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = 6D5E6E2B2CA11FF40016877B /* Alamofire */; };
 		6D5E6E2F2CA120B50016877B /* SwiftyJSON in Frameworks */ = {isa = PBXBuildFile; productRef = 6D5E6E2E2CA120B50016877B /* SwiftyJSON */; };
+		6D5E6E322CA121D60016877B /* Kingfisher in Frameworks */ = {isa = PBXBuildFile; productRef = 6D5E6E312CA121D60016877B /* Kingfisher */; };
 		6D6C37CA2C9FEB1800490B37 /* FinTrackProApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D6C37C92C9FEB1800490B37 /* FinTrackProApp.swift */; };
 		6D6C37CC2C9FEB1800490B37 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D6C37CB2C9FEB1800490B37 /* ContentView.swift */; };
 		6D6C37CE2C9FEB1800490B37 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D6C37CD2C9FEB1800490B37 /* Item.swift */; };
@@ -55,6 +56,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6D5E6E322CA121D60016877B /* Kingfisher in Frameworks */,
 				6D5E6E2F2CA120B50016877B /* SwiftyJSON in Frameworks */,
 				6D5E6E2C2CA11FF40016877B /* Alamofire in Frameworks */,
 			);
@@ -257,6 +259,7 @@
 			packageProductDependencies = (
 				6D5E6E2B2CA11FF40016877B /* Alamofire */,
 				6D5E6E2E2CA120B50016877B /* SwiftyJSON */,
+				6D5E6E312CA121D60016877B /* Kingfisher */,
 			);
 			productName = FinTrackPro;
 			productReference = 6D6C37C62C9FEB1800490B37 /* FinTrackPro.app */;
@@ -333,6 +336,7 @@
 			packageReferences = (
 				6D5E6E2A2CA11FF40016877B /* XCRemoteSwiftPackageReference "Alamofire" */,
 				6D5E6E2D2CA120B40016877B /* XCRemoteSwiftPackageReference "SwiftyJSON" */,
+				6D5E6E302CA121D60016877B /* XCRemoteSwiftPackageReference "Kingfisher" */,
 			);
 			productRefGroup = 6D6C37C72C9FEB1800490B37 /* Products */;
 			projectDirPath = "";
@@ -722,6 +726,14 @@
 				version = 5.0.1;
 			};
 		};
+		6D5E6E302CA121D60016877B /* XCRemoteSwiftPackageReference "Kingfisher" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/onevcat/Kingfisher.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 7.8.0;
+			};
+		};
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
@@ -734,6 +746,11 @@
 			isa = XCSwiftPackageProductDependency;
 			package = 6D5E6E2D2CA120B40016877B /* XCRemoteSwiftPackageReference "SwiftyJSON" */;
 			productName = SwiftyJSON;
+		};
+		6D5E6E312CA121D60016877B /* Kingfisher */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 6D5E6E302CA121D60016877B /* XCRemoteSwiftPackageReference "Kingfisher" */;
+			productName = Kingfisher;
 		};
 /* End XCSwiftPackageProductDependency section */
 	};
