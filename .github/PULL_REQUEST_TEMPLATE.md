@@ -1,34 +1,34 @@
-## Descripción
+## Description
 
-<!-- Describe de manera concisa los cambios que has realizado en este Pull Request. -->
+<!-- Briefly describe the changes you have made in this Pull Request. -->
 
-## Tipo de cambio
+## Type of change
 
-- [ ] Bugfix (solución de un problema)
-- [ ] Nueva funcionalidad (cambio que añade una funcionalidad)
-- [ ] Mejora de funcionalidad (cambio que mejora una funcionalidad existente)
-- [ ] Refactorización (cambio que no afecta la funcionalidad ni añade funcionalidades)
-- [ ] Documentación (actualización o adición de documentación)
+- [ ] Bugfix (solution to a problem)
+- [ ] New feature (change that adds a functionality)
+- [ ] Feature improvement (change that enhances an existing functionality)
+- [ ] Refactoring (change that does not affect functionality or add features)
+- [ ] Documentation (updating or adding documentation)
 
-## ¿Cómo se ha probado esto?
+## How has this been tested?
 
-<!-- Proporciona instrucciones detalladas sobre cómo se ha probado este PR.
-Incluye las instrucciones necesarias para replicar las pruebas. -->
+<!-- Provide detailed instructions on how this PR has been tested.
+Include the necessary steps to replicate the tests. -->
 
-- [ ] Test unitarios
-- [ ] Test de integración
-- [ ] Test manual
-- [ ] Otros: <!-- Especifica si es necesario -->
+- [ ] Unit tests
+- [ ] Integration tests
+- [ ] Manual testing
+- [ ] Others: <!-- Specify if necessary -->
 
 ## Checklist
 
-- [ ] He seguido las guías de estilo del código de este proyecto.
-- [ ] He realizado una auto-revisión de mi código.
-- [ ] He comentado mi código, especialmente en áreas difíciles de entender.
-- [ ] He realizado los cambios correspondientes en la documentación.
-- [ ] Mis cambios no generan nuevas advertencias.
-- [ ] He añadido pruebas que demuestran que mi corrección funciona o que mi característica funciona.
+- [ ] I have followed the coding style guidelines of this project.
+- [ ] I have performed a self-review of my code.
+- [ ] I have commented my code, especially in hard-to-understand areas.
+- [ ] I have made the corresponding changes to the documentation.
+- [ ] My changes do not generate new warnings.
+- [ ] I have added tests that prove my fix or feature works.
 
-## Información adicional
+## Additional information
 
-<!-- Añade cualquier información adicional que consideres importante. -->
+<!-- Add any additional information you consider important. -->
