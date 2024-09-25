@@ -31,6 +31,8 @@
 		6D6C37DD2C9FEB1A00490B37 /* FinTrackProTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D6C37DC2C9FEB1A00490B37 /* FinTrackProTests.swift */; };
 		6D6C37E72C9FEB1A00490B37 /* FinTrackProUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D6C37E62C9FEB1A00490B37 /* FinTrackProUITests.swift */; };
 		6D6C37E92C9FEB1A00490B37 /* FinTrackProUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D6C37E82C9FEB1A00490B37 /* FinTrackProUITestsLaunchTests.swift */; };
+		6D809CE62CA3C59F00071AA4 /* SwiftFormat in Frameworks */ = {isa = PBXBuildFile; productRef = 6D809CE52CA3C59F00071AA4 /* SwiftFormat */; };
+		6D809CE82CA3C59F00071AA4 /* swift-format in Frameworks */ = {isa = PBXBuildFile; productRef = 6D809CE72CA3C59F00071AA4 /* swift-format */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -82,7 +84,9 @@
 				6D52A0272CA13A840022BBFB /* RxRelay-Dynamic in Frameworks */,
 				6D52A01D2CA13A840022BBFB /* RxBlocking in Frameworks */,
 				6D52A01F2CA13A840022BBFB /* RxBlocking-Dynamic in Frameworks */,
+				6D809CE62CA3C59F00071AA4 /* SwiftFormat in Frameworks */,
 				6D52A0252CA13A840022BBFB /* RxRelay in Frameworks */,
+				6D809CE82CA3C59F00071AA4 /* swift-format in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -297,6 +301,8 @@
 				6D52A0262CA13A840022BBFB /* RxRelay-Dynamic */,
 				6D52A0282CA13A840022BBFB /* RxSwift */,
 				6D52A02A2CA13A840022BBFB /* RxSwift-Dynamic */,
+				6D809CE52CA3C59F00071AA4 /* SwiftFormat */,
+				6D809CE72CA3C59F00071AA4 /* swift-format */,
 			);
 			productName = FinTrackPro;
 			productReference = 6D6C37C62C9FEB1800490B37 /* FinTrackPro.app */;
@@ -381,6 +387,7 @@
 				6D5E6E332CA12BC10016877B /* XCRemoteSwiftPackageReference "lottie-ios" */,
 				6D5E6E362CA12DAE0016877B /* XCRemoteSwiftPackageReference "realm-swift" */,
 				6D52A01B2CA13A840022BBFB /* XCRemoteSwiftPackageReference "RxSwift" */,
+				6D809CE42CA3C59F00071AA4 /* XCRemoteSwiftPackageReference "swift-format" */,
 			);
 			productRefGroup = 6D6C37C72C9FEB1800490B37 /* Products */;
 			projectDirPath = "";
@@ -802,6 +809,14 @@
 				version = 10.40.2;
 			};
 		};
+		6D809CE42CA3C59F00071AA4 /* XCRemoteSwiftPackageReference "swift-format" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/swiftlang/swift-format.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 600.0.0;
+			};
+		};
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
@@ -884,6 +899,16 @@
 			isa = XCSwiftPackageProductDependency;
 			package = 6D5E6E362CA12DAE0016877B /* XCRemoteSwiftPackageReference "realm-swift" */;
 			productName = RealmSwift;
+		};
+		6D809CE52CA3C59F00071AA4 /* SwiftFormat */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 6D809CE42CA3C59F00071AA4 /* XCRemoteSwiftPackageReference "swift-format" */;
+			productName = SwiftFormat;
+		};
+		6D809CE72CA3C59F00071AA4 /* swift-format */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 6D809CE42CA3C59F00071AA4 /* XCRemoteSwiftPackageReference "swift-format" */;
+			productName = "swift-format";
 		};
 /* End XCSwiftPackageProductDependency section */
 	};
