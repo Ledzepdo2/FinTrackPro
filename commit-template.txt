@@ -1,0 +1,10 @@
+<type>(<scope>): <description>
+
+Common types:
+- feat: A new feature
+- fix: A bug fix
+- refactor: Code refactoring
+- tests: Adding or updating tests
+
+# Please follow the format above for writing the commit message.
+# Lines starting with '#' will be ignored.
