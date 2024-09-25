@@ -8,6 +8,7 @@
 import SwiftUI
 import SwiftData
 
+@available(iOS 17.0, *)
 struct ContentView: View {
     @Environment(\.modelContext) private var modelContext
     @Query private var items: [Item]
@@ -54,7 +55,7 @@ struct ContentView: View {
         }
     }
 }
-
+@available(iOS 17.0, *)
 #Preview {
     ContentView()
         .modelContainer(for: Item.self, inMemory: true)
