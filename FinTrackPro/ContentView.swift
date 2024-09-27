@@ -10,51 +10,30 @@ import SwiftData
 
 @available(iOS 17.0, *)
 struct ContentView: View {
-    @Environment(\.modelContext) private var modelContext
-    @Query private var items: [Item]
+    // Variable que controla si estamos en la pantalla de inicio o en el launcher
+    @State private var isActive = false
 
     var body: some View {
-        NavigationSplitView {
-            List {
-                ForEach(items) { item in
-                    NavigationLink {
-                        Text("Item at \(item.timestamp, format: Date.FormatStyle(date: .numeric, time: .standard))")
-                    } label: {
-                        Text(item.timestamp, format: Date.FormatStyle(date: .numeric, time: .standard))
-                    }
-                }
-                .onDelete(perform: deleteItems)
+        VStack {
+            if isActive {
+                // Si `isActive` es true, mostramos la pantalla de inicio de sesión
+                LoginView()
+            } else {
+                // Si `isActive` es false, mostramos la pantalla del launcher
+                LaunchView(animation: LottieAnimation(filename: "LaunchView"))
             }
-            .toolbar {
-                ToolbarItem(placement: .navigationBarTrailing) {
-                    EditButton()
-                }
-                ToolbarItem {
-                    Button(action: addItem) {
-                        Label("Add Item", systemImage: "plus")
-                    }
-                }
-            }
-        } detail: {
-            Text("Select an item")
         }
-    }
-
-    private func addItem() {
-        withAnimation {
-            let newItem = Item(timestamp: Date())
-            modelContext.insert(newItem)
-        }
-    }
-
-    private func deleteItems(offsets: IndexSet) {
-        withAnimation {
-            for index in offsets {
-                modelContext.delete(items[index])
+        .onAppear {
+            // Después de 3 segundos, cambiamos a la pantalla de login
+            DispatchQueue.main.asyncAfter(deadline: .now() + 3) {
+                withAnimation {
+                    self.isActive = true
+                }
             }
         }
     }
 }
+
 @available(iOS 17.0, *)
 #Preview {
     ContentView()
