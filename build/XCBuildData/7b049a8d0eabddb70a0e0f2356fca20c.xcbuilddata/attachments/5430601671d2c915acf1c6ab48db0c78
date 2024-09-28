@@ -1,0 +1,15 @@
+{
+  "" : {
+    "const-values" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-argument-parser/build/swift-argument-parser.build/Release-iphoneos/ArgumentParserToolInfo.build/Objects-normal/arm64/ArgumentParserToolInfo-master.swiftconstvalues",
+    "dependencies" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-argument-parser/build/swift-argument-parser.build/Release-iphoneos/ArgumentParserToolInfo.build/Objects-normal/arm64/ArgumentParserToolInfo-master.d",
+    "diagnostics" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-argument-parser/build/swift-argument-parser.build/Release-iphoneos/ArgumentParserToolInfo.build/Objects-normal/arm64/ArgumentParserToolInfo-master.dia",
+    "emit-module-dependencies" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-argument-parser/build/swift-argument-parser.build/Release-iphoneos/ArgumentParserToolInfo.build/Objects-normal/arm64/ArgumentParserToolInfo-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-argument-parser/build/swift-argument-parser.build/Release-iphoneos/ArgumentParserToolInfo.build/Objects-normal/arm64/ArgumentParserToolInfo-master-emit-module.dia",
+    "swift-dependencies" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-argument-parser/build/swift-argument-parser.build/Release-iphoneos/ArgumentParserToolInfo.build/Objects-normal/arm64/ArgumentParserToolInfo-master.swiftdeps"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParserToolInfo/ToolInfo.swift" : {
+    "index-unit-output-path" : "/swift-argument-parser.build/Release-iphoneos/ArgumentParserToolInfo.build/Objects-normal/arm64/ToolInfo.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-argument-parser/build/swift-argument-parser.build/Release-iphoneos/ArgumentParserToolInfo.build/Objects-normal/arm64/ToolInfo.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-argument-parser/build/swift-argument-parser.build/Release-iphoneos/ArgumentParserToolInfo.build/Objects-normal/arm64/ToolInfo.o"
+  }
+}

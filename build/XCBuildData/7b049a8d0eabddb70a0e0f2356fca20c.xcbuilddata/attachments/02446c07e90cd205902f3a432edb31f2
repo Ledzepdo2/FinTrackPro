@@ -1,0 +1,435 @@
+{
+  "" : {
+    "const-values" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/SwiftFormat-master.swiftconstvalues",
+    "dependencies" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/SwiftFormat-master.d",
+    "diagnostics" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/SwiftFormat-master.dia",
+    "emit-module-dependencies" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/SwiftFormat-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/SwiftFormat-master-emit-module.dia",
+    "swift-dependencies" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/SwiftFormat-master.swiftdeps"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/API/Configuration.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/Configuration.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/Configuration.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/Configuration.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/API/Configuration+Default.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/Configuration+Default.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/Configuration+Default.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/Configuration+Default.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/API/DebugOptions.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/DebugOptions.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/DebugOptions.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/DebugOptions.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/API/Finding.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/Finding.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/Finding.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/Finding.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/API/FindingCategorizing.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/FindingCategorizing.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/FindingCategorizing.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/FindingCategorizing.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/API/Indent.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/Indent.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/Indent.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/Indent.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/API/Selection.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/Selection.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/Selection.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/Selection.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/API/SwiftFormatError.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/SwiftFormatError.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/SwiftFormatError.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/SwiftFormatError.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/API/SwiftFormatter.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/SwiftFormatter.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/SwiftFormatter.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/SwiftFormatter.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/API/SwiftLinter.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/SwiftLinter.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/SwiftLinter.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/SwiftLinter.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Core/Context.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/Context.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/Context.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/Context.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Core/DocumentationComment.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/DocumentationComment.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/DocumentationComment.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/DocumentationComment.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Core/DocumentationCommentText.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/DocumentationCommentText.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/DocumentationCommentText.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/DocumentationCommentText.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Core/Finding+Convenience.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/Finding+Convenience.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/Finding+Convenience.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/Finding+Convenience.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Core/FindingEmitter.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/FindingEmitter.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/FindingEmitter.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/FindingEmitter.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Core/FormatPipeline.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/FormatPipeline.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/FormatPipeline.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/FormatPipeline.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Core/FunctionDeclSyntax+Convenience.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/FunctionDeclSyntax+Convenience.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/FunctionDeclSyntax+Convenience.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/FunctionDeclSyntax+Convenience.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Core/ImportsXCTestVisitor.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/ImportsXCTestVisitor.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/ImportsXCTestVisitor.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/ImportsXCTestVisitor.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Core/LazySplitSequence.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/LazySplitSequence.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/LazySplitSequence.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/LazySplitSequence.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Core/LintPipeline.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/LintPipeline.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/LintPipeline.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/LintPipeline.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Core/ModifierListSyntax+Convenience.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/ModifierListSyntax+Convenience.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/ModifierListSyntax+Convenience.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/ModifierListSyntax+Convenience.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Core/Parsing.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/Parsing.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/Parsing.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/Parsing.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Core/Pipelines+Generated.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/Pipelines+Generated.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/Pipelines+Generated.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/Pipelines+Generated.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Core/RememberingIterator.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/RememberingIterator.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/RememberingIterator.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/RememberingIterator.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Core/Rule.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/Rule.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/Rule.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/Rule.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Core/RuleBasedFindingCategory.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/RuleBasedFindingCategory.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/RuleBasedFindingCategory.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/RuleBasedFindingCategory.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Core/RuleMask.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/RuleMask.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/RuleMask.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/RuleMask.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Core/RuleNameCache+Generated.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/RuleNameCache+Generated.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/RuleNameCache+Generated.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/RuleNameCache+Generated.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Core/RuleRegistry+Generated.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/RuleRegistry+Generated.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/RuleRegistry+Generated.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/RuleRegistry+Generated.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Core/RuleState.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/RuleState.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/RuleState.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/RuleState.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Core/SyntaxFormatRule.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/SyntaxFormatRule.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/SyntaxFormatRule.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/SyntaxFormatRule.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Core/SyntaxLintRule.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/SyntaxLintRule.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/SyntaxLintRule.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/SyntaxLintRule.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Core/SyntaxProtocol+Convenience.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/SyntaxProtocol+Convenience.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/SyntaxProtocol+Convenience.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/SyntaxProtocol+Convenience.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Core/Trivia+Convenience.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/Trivia+Convenience.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/Trivia+Convenience.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/Trivia+Convenience.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Core/WithSemicolonSyntax.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/WithSemicolonSyntax.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/WithSemicolonSyntax.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/WithSemicolonSyntax.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/PrettyPrint/Comment.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/Comment.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/Comment.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/Comment.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/PrettyPrint/Indent+Length.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/Indent+Length.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/Indent+Length.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/Indent+Length.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/PrettyPrint/PrettyPrint.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/PrettyPrint.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/PrettyPrint.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/PrettyPrint.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/PrettyPrint/PrettyPrintFindingCategory.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/PrettyPrintFindingCategory.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/PrettyPrintFindingCategory.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/PrettyPrintFindingCategory.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/PrettyPrint/Token.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/Token.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/Token.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/Token.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/PrettyPrint/TokenStreamCreator.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/TokenStreamCreator.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/TokenStreamCreator.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/TokenStreamCreator.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/PrettyPrint/Verbatim.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/Verbatim.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/Verbatim.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/Verbatim.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/PrettyPrint/WhitespaceFindingCategory.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/WhitespaceFindingCategory.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/WhitespaceFindingCategory.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/WhitespaceFindingCategory.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/PrettyPrint/WhitespaceLinter.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/WhitespaceLinter.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/WhitespaceLinter.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/WhitespaceLinter.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Rules/AllPublicDeclarationsHaveDocumentation.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/AllPublicDeclarationsHaveDocumentation.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/AllPublicDeclarationsHaveDocumentation.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/AllPublicDeclarationsHaveDocumentation.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Rules/AlwaysUseLiteralForEmptyCollectionInit.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/AlwaysUseLiteralForEmptyCollectionInit.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/AlwaysUseLiteralForEmptyCollectionInit.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/AlwaysUseLiteralForEmptyCollectionInit.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Rules/AlwaysUseLowerCamelCase.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/AlwaysUseLowerCamelCase.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/AlwaysUseLowerCamelCase.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/AlwaysUseLowerCamelCase.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Rules/AmbiguousTrailingClosureOverload.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/AmbiguousTrailingClosureOverload.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/AmbiguousTrailingClosureOverload.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/AmbiguousTrailingClosureOverload.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Rules/BeginDocumentationCommentWithOneLineSummary.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/BeginDocumentationCommentWithOneLineSummary.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/BeginDocumentationCommentWithOneLineSummary.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/BeginDocumentationCommentWithOneLineSummary.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Rules/DoNotUseSemicolons.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/DoNotUseSemicolons.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/DoNotUseSemicolons.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/DoNotUseSemicolons.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Rules/DontRepeatTypeInStaticProperties.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/DontRepeatTypeInStaticProperties.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/DontRepeatTypeInStaticProperties.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/DontRepeatTypeInStaticProperties.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Rules/FileScopedDeclarationPrivacy.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/FileScopedDeclarationPrivacy.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/FileScopedDeclarationPrivacy.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/FileScopedDeclarationPrivacy.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Rules/FullyIndirectEnum.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/FullyIndirectEnum.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/FullyIndirectEnum.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/FullyIndirectEnum.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Rules/GroupNumericLiterals.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/GroupNumericLiterals.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/GroupNumericLiterals.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/GroupNumericLiterals.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Rules/IdentifiersMustBeASCII.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/IdentifiersMustBeASCII.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/IdentifiersMustBeASCII.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/IdentifiersMustBeASCII.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Rules/NeverForceUnwrap.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/NeverForceUnwrap.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/NeverForceUnwrap.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/NeverForceUnwrap.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Rules/NeverUseForceTry.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/NeverUseForceTry.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/NeverUseForceTry.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/NeverUseForceTry.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Rules/NeverUseImplicitlyUnwrappedOptionals.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/NeverUseImplicitlyUnwrappedOptionals.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/NeverUseImplicitlyUnwrappedOptionals.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/NeverUseImplicitlyUnwrappedOptionals.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Rules/NoAccessLevelOnExtensionDeclaration.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/NoAccessLevelOnExtensionDeclaration.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/NoAccessLevelOnExtensionDeclaration.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/NoAccessLevelOnExtensionDeclaration.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Rules/NoAssignmentInExpressions.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/NoAssignmentInExpressions.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/NoAssignmentInExpressions.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/NoAssignmentInExpressions.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Rules/NoBlockComments.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/NoBlockComments.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/NoBlockComments.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/NoBlockComments.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Rules/NoCasesWithOnlyFallthrough.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/NoCasesWithOnlyFallthrough.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/NoCasesWithOnlyFallthrough.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/NoCasesWithOnlyFallthrough.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Rules/NoEmptyTrailingClosureParentheses.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/NoEmptyTrailingClosureParentheses.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/NoEmptyTrailingClosureParentheses.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/NoEmptyTrailingClosureParentheses.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Rules/NoLabelsInCasePatterns.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/NoLabelsInCasePatterns.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/NoLabelsInCasePatterns.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/NoLabelsInCasePatterns.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Rules/NoLeadingUnderscores.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/NoLeadingUnderscores.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/NoLeadingUnderscores.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/NoLeadingUnderscores.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Rules/NoParensAroundConditions.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/NoParensAroundConditions.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/NoParensAroundConditions.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/NoParensAroundConditions.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Rules/NoPlaygroundLiterals.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/NoPlaygroundLiterals.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/NoPlaygroundLiterals.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/NoPlaygroundLiterals.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Rules/NoVoidReturnOnFunctionSignature.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/NoVoidReturnOnFunctionSignature.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/NoVoidReturnOnFunctionSignature.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/NoVoidReturnOnFunctionSignature.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Rules/OmitExplicitReturns.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/OmitExplicitReturns.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/OmitExplicitReturns.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/OmitExplicitReturns.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Rules/OneCasePerLine.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/OneCasePerLine.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/OneCasePerLine.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/OneCasePerLine.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Rules/OneVariableDeclarationPerLine.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/OneVariableDeclarationPerLine.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/OneVariableDeclarationPerLine.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/OneVariableDeclarationPerLine.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Rules/OnlyOneTrailingClosureArgument.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/OnlyOneTrailingClosureArgument.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/OnlyOneTrailingClosureArgument.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/OnlyOneTrailingClosureArgument.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Rules/OrderedImports.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/OrderedImports.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/OrderedImports.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/OrderedImports.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Rules/ReplaceForEachWithForLoop.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/ReplaceForEachWithForLoop.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/ReplaceForEachWithForLoop.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/ReplaceForEachWithForLoop.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Rules/ReturnVoidInsteadOfEmptyTuple.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/ReturnVoidInsteadOfEmptyTuple.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/ReturnVoidInsteadOfEmptyTuple.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/ReturnVoidInsteadOfEmptyTuple.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Rules/TypeNamesShouldBeCapitalized.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/TypeNamesShouldBeCapitalized.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/TypeNamesShouldBeCapitalized.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/TypeNamesShouldBeCapitalized.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Rules/UseEarlyExits.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/UseEarlyExits.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/UseEarlyExits.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/UseEarlyExits.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Rules/UseExplicitNilCheckInConditions.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/UseExplicitNilCheckInConditions.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/UseExplicitNilCheckInConditions.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/UseExplicitNilCheckInConditions.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Rules/UseLetInEveryBoundCaseVariable.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/UseLetInEveryBoundCaseVariable.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/UseLetInEveryBoundCaseVariable.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/UseLetInEveryBoundCaseVariable.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Rules/UseShorthandTypeNames.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/UseShorthandTypeNames.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/UseShorthandTypeNames.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/UseShorthandTypeNames.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Rules/UseSingleLinePropertyGetter.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/UseSingleLinePropertyGetter.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/UseSingleLinePropertyGetter.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/UseSingleLinePropertyGetter.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Rules/UseSynthesizedInitializer.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/UseSynthesizedInitializer.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/UseSynthesizedInitializer.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/UseSynthesizedInitializer.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Rules/UseTripleSlashForDocumentationComments.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/UseTripleSlashForDocumentationComments.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/UseTripleSlashForDocumentationComments.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/UseTripleSlashForDocumentationComments.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Rules/UseWhereClausesInForLoops.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/UseWhereClausesInForLoops.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/UseWhereClausesInForLoops.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/UseWhereClausesInForLoops.o"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/Sources/SwiftFormat/Rules/ValidateDocumentationComments.swift" : {
+    "index-unit-output-path" : "/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/ValidateDocumentationComments.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/ValidateDocumentationComments.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-format/build/swift-format.build/Release-iphoneos/SwiftFormat.build/Objects-normal/arm64/ValidateDocumentationComments.o"
+  }
+}

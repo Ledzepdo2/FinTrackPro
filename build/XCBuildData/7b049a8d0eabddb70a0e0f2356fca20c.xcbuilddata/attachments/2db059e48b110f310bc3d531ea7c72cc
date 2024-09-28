@@ -1,0 +1,15 @@
+{
+  "" : {
+    "const-values" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/SwiftyJSON/build/SwiftyJSON.build/Release-iphoneos/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON-master.swiftconstvalues",
+    "dependencies" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/SwiftyJSON/build/SwiftyJSON.build/Release-iphoneos/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON-master.d",
+    "diagnostics" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/SwiftyJSON/build/SwiftyJSON.build/Release-iphoneos/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON-master.dia",
+    "emit-module-dependencies" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/SwiftyJSON/build/SwiftyJSON.build/Release-iphoneos/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/SwiftyJSON/build/SwiftyJSON.build/Release-iphoneos/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON-master-emit-module.dia",
+    "swift-dependencies" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/SwiftyJSON/build/SwiftyJSON.build/Release-iphoneos/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON-master.swiftdeps"
+  },
+  "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/SwiftyJSON/Source/SwiftyJSON/SwiftyJSON.swift" : {
+    "index-unit-output-path" : "/SwiftyJSON.build/Release-iphoneos/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/SwiftyJSON/build/SwiftyJSON.build/Release-iphoneos/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON.bc",
+    "object" : "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/SwiftyJSON/build/SwiftyJSON.build/Release-iphoneos/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON.o"
+  }
+}

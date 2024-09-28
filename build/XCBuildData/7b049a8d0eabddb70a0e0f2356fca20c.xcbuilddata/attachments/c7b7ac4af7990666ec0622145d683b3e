@@ -1,0 +1,68 @@
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Base/ChildIndexPath.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Base/DirectiveArgument.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Base/Document.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Base/LiteralMarkup.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Base/Markup.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Base/MarkupChildren.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Base/MarkupData.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Base/PlainTextConvertibleMarkup.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Base/RawMarkup.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Block\ Nodes/Block\ Container\ Blocks/BlockDirective.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Block\ Nodes/Block\ Container\ Blocks/BlockQuote.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Block\ Nodes/Block\ Container\ Blocks/CustomBlock.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Block\ Nodes/Block\ Container\ Blocks/Doxygen\ Commands/DoxygenDiscussion.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Block\ Nodes/Block\ Container\ Blocks/Doxygen\ Commands/DoxygenNote.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Block\ Nodes/Block\ Container\ Blocks/Doxygen\ Commands/DoxygenParameter.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Block\ Nodes/Block\ Container\ Blocks/Doxygen\ Commands/DoxygenReturns.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Block\ Nodes/Block\ Container\ Blocks/ListItem.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Block\ Nodes/Block\ Container\ Blocks/OrderedList.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Block\ Nodes/Block\ Container\ Blocks/UnorderedList.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Block\ Nodes/Inline\ Container\ Blocks/Paragraph.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Block\ Nodes/Leaf\ Blocks/CodeBlock.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Block\ Nodes/Leaf\ Blocks/HTMLBlock.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Block\ Nodes/Leaf\ Blocks/Heading.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Block\ Nodes/Leaf\ Blocks/ThematicBreak.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Block\ Nodes/Tables/Table.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Block\ Nodes/Tables/TableBody.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Block\ Nodes/Tables/TableCell.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Block\ Nodes/Tables/TableCellContainer.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Block\ Nodes/Tables/TableHead.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Block\ Nodes/Tables/TableRow.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Infrastructure/Replacement.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Infrastructure/SourceLocation.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Inline\ Nodes/Inline\ Containers/Emphasis.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Inline\ Nodes/Inline\ Containers/Image.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Inline\ Nodes/Inline\ Containers/InlineAttributes.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Inline\ Nodes/Inline\ Containers/Link.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Inline\ Nodes/Inline\ Containers/Strikethrough.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Inline\ Nodes/Inline\ Containers/Strong.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Inline\ Nodes/Inline\ Leaves/CustomInline.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Inline\ Nodes/Inline\ Leaves/InlineCode.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Inline\ Nodes/Inline\ Leaves/InlineHTML.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Inline\ Nodes/Inline\ Leaves/LineBreak.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Inline\ Nodes/Inline\ Leaves/SoftBreak.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Inline\ Nodes/Inline\ Leaves/SymbolLink.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Inline\ Nodes/Inline\ Leaves/Text.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Interpretive\ Nodes/Aside.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Parser/BlockDirectiveParser.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Parser/CommonMarkConverter.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Parser/LazySplitLines.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Parser/ParseOptions.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Parser/RangeAdjuster.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Parser/RangerTracker.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Rewriter/MarkupRewriter.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Structural\ Restrictions/BasicBlockContainer.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Structural\ Restrictions/BasicInlineContainer.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Structural\ Restrictions/BlockContainer.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Structural\ Restrictions/BlockMarkup.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Structural\ Restrictions/InlineContainer.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Structural\ Restrictions/InlineMarkup.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Structural\ Restrictions/ListItemContainer.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Utility/AtomicCounter.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Utility/CharacterExtensions.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Utility/CollectionExtensions.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Utility/StringExtensions.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Visitor/MarkupVisitor.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Walker/MarkupWalker.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Walker/Walkers/MarkupFormatter.swift
+/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/swift-markdown/Sources/Markdown/Walker/Walkers/MarkupTreeDumper.swift
