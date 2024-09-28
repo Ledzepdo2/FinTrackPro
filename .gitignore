@@ -1,0 +1,52 @@
+# Xcode
+#
+build/
+DerivedData/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+
+# Swift Package Manager
+#
+.build/
+.swiftpm/
+Package.resolved
+
+# CocoaPods
+#
+Pods/
+# Uncomment this line if you want to ignore the Podfile.lock
+# Podfile.lock
+
+# Carthage
+#
+Carthage/Build/
+
+# Fastlane
+#
+# It is recommended to not store the screenshots in the git repo.
+# Instead, use fastlane to re-generate the same on every run.
+# If you have screenshots in the repo, uncomment the following line to ignore them.
+# /fastlane/screenshots
+
+# Bundle artifact
+#
+*.ipa
+*.xcarchive
+
+# Others
+#
+*.swp
+.DS_Store
+*.log
+*.lock
+*.gz

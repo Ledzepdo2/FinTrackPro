@@ -1,0 +1,44 @@
+# This file contains the fastlane.tools configuration
+# You can find the documentation at https://docs.fastlane.tools
+#
+# For a list of all available actions, check out
+#
+#     https://docs.fastlane.tools/actions
+#
+# For a list of all available plugins, check out
+#
+#     https://docs.fastlane.tools/plugins/available-plugins
+#
+
+# Uncomment the line if you want fastlane to automatically update itself
+# update_fastlane
+
+default_platform(:ios)
+
+platform :ios do
+  desc "Description of what the lane does"
+  lane :custom_lane do
+    # add actions here: https://docs.fastlane.tools/actions
+
+# fastlane/Fastfile
+
+default_platform(:ios)
+
+platform :ios do
+  desc "Build and upload a new beta build to TestFlight"
+  lane :beta do
+    # Incrementar el número de versión de compilación automáticamente
+    increment_build_number(xcodeproj: "FinTrackPro.xcodeproj")
+
+    # Compilar la aplicación
+    build_app(
+      workspace: "FinTrackPro.xcworkspace", # Cambia esto si usas un workspace
+      scheme: "FinTrackPro",               # Cambia esto al nombre de tu esquema
+      export_method: "app-store"
+    )
+
+    # Subir a TestFlight
+    upload_to_testflight
+
+  end
+end
