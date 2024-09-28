@@ -331,11 +331,11 @@
 				6D6C37F82C9FF35000490B37 /* Services */,
 				6D6C37F72C9FF33900490B37 /* Networking */,
 				6D6C37F52C9FF2F500490B37 /* Core */,
+				6D6C37D12C9FEB1A00490B37 /* Preview Content */,
 				6D6C37C92C9FEB1800490B37 /* FinTrackProApp.swift */,
 				6D6C37CB2C9FEB1800490B37 /* ContentView.swift */,
 				6D6C37CD2C9FEB1800490B37 /* Item.swift */,
 				6D6C37CF2C9FEB1A00490B37 /* Assets.xcassets */,
-				6D6C37D12C9FEB1A00490B37 /* Preview Content */,
 				6DBC79902CA7A5DF00066B10 /* Package.swift */,
 			);
 			path = FinTrackPro;

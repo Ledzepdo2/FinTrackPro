@@ -27,14 +27,21 @@ jobs:
         with:
           xcode-version: "14.3.1"  # Actualiza la versión de Xcode a la disponible
 
+      # *** Nuevo Paso: Navegar al directorio del proyecto ***
+      - name: Navigate to the project directory
+        run: cd FinTrackPro
+
       # Paso 3: Instalar dependencias con Swift Package Manager
       - name: Resolve Swift Package Dependencies
         run: swift package resolve
+        working-directory: ./FinTrackPro
 
       # Paso 4: Compilar el proyecto
       - name: Build the project
         run: xcodebuild -scheme "FinTrackPro" -sdk iphonesimulator -destination 'platform=iOS Simulator,name=iPhone 14,OS=16.0' build | xcpretty
+        working-directory: ./FinTrackPro
 
       # Paso 5: Ejecutar pruebas unitarias
       - name: Run Unit Tests
         run: xcodebuild test -scheme "FinTrackPro" -sdk iphonesimulator -destination 'platform=iOS Simulator,name=iPhone 14,OS=16.0' -enableCodeCoverage YES | xcpretty
+        working-directory: ./FinTrackPro
