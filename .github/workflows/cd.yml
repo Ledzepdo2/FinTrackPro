@@ -28,17 +28,28 @@ jobs:
         with:
           ruby-version: '2.7' # Ajusta la versión de Ruby según la que estés utilizando
 
-      # Paso 4: Instalar Fastlane
+      # *** Nuevo Paso: Navegar al directorio del proyecto ***
+      - name: Navigate to the project directory
+        run: cd FinTrackPro # Asegúrate de que 'FinTrackPro' sea la carpeta correcta donde está tu archivo Package.swift
+
+      # Paso 4: Instalar dependencias con Swift Package Manager
+      - name: Resolve Swift Package Dependencies
+        run: swift package resolve
+        working-directory: ./FinTrackPro
+
+      # Paso 5: Instalar Fastlane
       - name: Install Fastlane
         run: gem install fastlane
+        working-directory: ./FinTrackPro
 
-      # Paso 5: Configurar claves de acceso para App Store Connect
+      # Paso 6: Configurar claves de acceso para App Store Connect
       - name: Configure App Store Connect API Key
         env:
           FASTLANE_USER: ${{ secrets.FASTLANE_USER }}
           FASTLANE_PASSWORD: ${{ secrets.FASTLANE_PASSWORD }}
           APP_STORE_CONNECT_API_KEY_JSON: ${{ secrets.APP_STORE_CONNECT_API_KEY_JSON }}
 
-      # Paso 6: Ejecutar la lane de Fastlane para TestFlight
+      # Paso 7: Ejecutar la lane de Fastlane para TestFlight
       - name: Run Fastlane Beta Lane
         run: fastlane beta
+        working-directory: ./FinTrackPro
