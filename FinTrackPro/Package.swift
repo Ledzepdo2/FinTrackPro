@@ -1,4 +1,4 @@
-// swift-tools-version:5.7
+// swift-tools-version:5.9
 import PackageDescription
 
 let package = Package(
@@ -14,7 +14,7 @@ let package = Package(
     dependencies: [
         // Dependencias externas
         .package(url: "https://github.com/Alamofire/Alamofire.git", from: "5.6.4"),
-        .package(url: "https://github.com/firebase/firebase-ios-sdk.git", from: "11.2.0"),
+        .package(url: "https://github.com/firebase/firebase-ios-sdk.git", from: "10.15.0"),
         .package(url: "https://github.com/onevcat/Kingfisher.git", from: "7.12.0"),
         .package(url: "https://github.com/airbnb/lottie-ios.git", from: "4.1.0"),
         .package(url: "https://github.com/ReactiveX/RxSwift.git", from: "6.5.0"),
