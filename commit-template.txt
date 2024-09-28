@@ -4,7 +4,15 @@ Common types:
 - feat: A new feature
 - fix: A bug fix
 - refactor: Code refactoring
-- tests: Adding or updating tests
+- test: Adding or updating tests
+- docs: Documentation changes
+- chore: Routine task or maintenance
+- style: Code formatting changes (non-functional changes)
+- perf: Performance improvements
+- build: Changes that affect the build system or external dependencies
+- ci: Changes to CI/CD configuration
+
+Example: feat(auth): add user login feature
 
 # Please follow the format above for writing the commit message.
 # Lines starting with '#' will be ignored.

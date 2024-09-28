@@ -17,8 +17,10 @@ struct ContentView: View {
         VStack {
             if isActive {
                 // Si `isActive` es true, mostramos la pantalla de inicio de sesión
-                LoginView()
-            } else {
+                let interactor = LoginInteractor()
+                            let router = LoginRouter()
+                            let presenter = LoginPresenter(interactor: interactor, router: router)
+                            LoginView(presenter: presenter)            } else {
                 // Si `isActive` es false, mostramos la pantalla del launcher
                 LaunchView(animation: LottieAnimation(filename: "LaunchView"))
             }
