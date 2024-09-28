@@ -1,0 +1,4 @@
+module Bid {
+umbrella "/Users/jesusperezmojica/Library/Developer/Xcode/DerivedData/FinTrackPro-adsubskbjceglxegmzbzhwoditlo/SourcePackages/checkouts/realm-core/src/external/IntelRDFPMathLib20U2/LIBRARY/src"
+export *
+}

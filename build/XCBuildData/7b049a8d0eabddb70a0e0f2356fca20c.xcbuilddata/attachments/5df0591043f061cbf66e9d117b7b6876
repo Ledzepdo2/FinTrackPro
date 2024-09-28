@@ -1,0 +1,30 @@
+{
+  "" : {
+    "const-values" : "/Users/jesusperezmojica/Desktop/FinTrackPro/build/FinTrackPro.build/Release-iphoneos/FinTrackPro.build/Objects-normal/arm64/FinTrackPro-master.swiftconstvalues",
+    "dependencies" : "/Users/jesusperezmojica/Desktop/FinTrackPro/build/FinTrackPro.build/Release-iphoneos/FinTrackPro.build/Objects-normal/arm64/FinTrackPro-master.d",
+    "diagnostics" : "/Users/jesusperezmojica/Desktop/FinTrackPro/build/FinTrackPro.build/Release-iphoneos/FinTrackPro.build/Objects-normal/arm64/FinTrackPro-master.dia",
+    "emit-module-dependencies" : "/Users/jesusperezmojica/Desktop/FinTrackPro/build/FinTrackPro.build/Release-iphoneos/FinTrackPro.build/Objects-normal/arm64/FinTrackPro-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/jesusperezmojica/Desktop/FinTrackPro/build/FinTrackPro.build/Release-iphoneos/FinTrackPro.build/Objects-normal/arm64/FinTrackPro-master-emit-module.dia",
+    "swift-dependencies" : "/Users/jesusperezmojica/Desktop/FinTrackPro/build/FinTrackPro.build/Release-iphoneos/FinTrackPro.build/Objects-normal/arm64/FinTrackPro-master.swiftdeps"
+  },
+  "/Users/jesusperezmojica/Desktop/FinTrackPro/build/FinTrackPro.build/Release-iphoneos/FinTrackPro.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/FinTrackPro.build/Release-iphoneos/FinTrackPro.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Desktop/FinTrackPro/build/FinTrackPro.build/Release-iphoneos/FinTrackPro.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/jesusperezmojica/Desktop/FinTrackPro/build/FinTrackPro.build/Release-iphoneos/FinTrackPro.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  },
+  "/Users/jesusperezmojica/Desktop/FinTrackPro/FinTrackPro/ContentView.swift" : {
+    "index-unit-output-path" : "/FinTrackPro.build/Release-iphoneos/FinTrackPro.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Desktop/FinTrackPro/build/FinTrackPro.build/Release-iphoneos/FinTrackPro.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/jesusperezmojica/Desktop/FinTrackPro/build/FinTrackPro.build/Release-iphoneos/FinTrackPro.build/Objects-normal/arm64/ContentView.o"
+  },
+  "/Users/jesusperezmojica/Desktop/FinTrackPro/FinTrackPro/FinTrackProApp.swift" : {
+    "index-unit-output-path" : "/FinTrackPro.build/Release-iphoneos/FinTrackPro.build/Objects-normal/arm64/FinTrackProApp.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Desktop/FinTrackPro/build/FinTrackPro.build/Release-iphoneos/FinTrackPro.build/Objects-normal/arm64/FinTrackProApp.bc",
+    "object" : "/Users/jesusperezmojica/Desktop/FinTrackPro/build/FinTrackPro.build/Release-iphoneos/FinTrackPro.build/Objects-normal/arm64/FinTrackProApp.o"
+  },
+  "/Users/jesusperezmojica/Desktop/FinTrackPro/FinTrackPro/Item.swift" : {
+    "index-unit-output-path" : "/FinTrackPro.build/Release-iphoneos/FinTrackPro.build/Objects-normal/arm64/Item.o",
+    "llvm-bc" : "/Users/jesusperezmojica/Desktop/FinTrackPro/build/FinTrackPro.build/Release-iphoneos/FinTrackPro.build/Objects-normal/arm64/Item.bc",
+    "object" : "/Users/jesusperezmojica/Desktop/FinTrackPro/build/FinTrackPro.build/Release-iphoneos/FinTrackPro.build/Objects-normal/arm64/Item.o"
+  }
+}
